@@ -30,7 +30,7 @@ import lk.gov.health.phsp.enums.TimePeriodType;
 
 /**
  *
- * @author chims
+ * @author RPCS
  */
 public class ReportTimePeriod {
 

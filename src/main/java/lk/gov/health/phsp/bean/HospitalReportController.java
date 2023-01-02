@@ -1282,7 +1282,7 @@ public class HospitalReportController implements Serializable {
             FileInputStream excelFile = new FileInputStream(newFile);
             workbook = new XSSFWorkbook(excelFile);
             sheet = workbook.getSheetAt(0);
-            XSSFSheet sheet2 = workbook.createSheet("Test Sheet CHIMS");
+            XSSFSheet sheet2 = workbook.createSheet("Test Sheet RPCS");
 
             Iterator<Row> iterator = sheet.iterator();
 

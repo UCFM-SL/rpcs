@@ -331,9 +331,9 @@ table.greenTable tbody td {
 
 table.greenTable thead {
     background: #1E90FF;
-    background: -moz-linear-gradient(top, #56acff 0%, #349bff 66%, #1E90FF 100%);
-    background: -webkit-linear-gradient(top, #56acff 0%, #349bff 66%, #1E90FF 100%);
-    background: linear-gradient(to bottom, #56acff 0%, #349bff 66%, #1E90FF 100%);
+    background: -moz-linear-gradient(top, #f844a2 0%, #349bff 66%, #1E90FF 100%);
+    background: -webkit-linear-gradient(top, #f844a2 0%, #349bff 66%, #1E90FF 100%);
+    background: linear-gradient(to bottom, #f844a2 0%, #349bff 66%, #1E90FF 100%);
     border-bottom: 0px solid #444444;
 }
 table.greenTable thead th {
@@ -350,9 +350,9 @@ table.greenTable tfoot {
     font-weight: bold;
     color: #F0F0F0;
     background: #1E90FF;
-    background: -moz-linear-gradient(top, #56acff 0%, #349bff 66%, #1E90FF 100%);
-    background: -webkit-linear-gradient(top, #56acff 0%, #349bff 66%, #1E90FF 100%);
-    background: linear-gradient(to bottom, #56acff 0%, #349bff 66%, #1E90FF 100%);
+    background: -moz-linear-gradient(top, #f844a2 0%, #349bff 66%, #1E90FF 100%);
+    background: -webkit-linear-gradient(top, #f844a2 0%, #349bff 66%, #1E90FF 100%);
+    background: linear-gradient(to bottom, #f844a2 0%, #349bff 66%, #1E90FF 100%);
     border-top: 1px solid #1E90FF;
 }
 table.greenTable tfoot .links {

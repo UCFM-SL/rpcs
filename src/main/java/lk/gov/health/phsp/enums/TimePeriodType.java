@@ -1,7 +1,7 @@
 /*
  * The MIT License
  *
- * Copyright 2020 chims.
+ * Copyright 2020 RPCS.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@ package lk.gov.health.phsp.enums;
 
 /**
  *
- * @author chims
+ * @author RPCS
  */
 public enum TimePeriodType {
     Yearley("Yearly"),

@@ -1,4 +1,4 @@
--- select concat('rename table ', table_name, ' to  temp' , ';','rename table temp to  ',  upper(table_name), ';' ) from information_schema.tables where table_schema = 'chims';
+-- select concat('rename table ', table_name, ' to  temp' , ';','rename table temp to  ',  upper(table_name), ';' ) from information_schema.tables where table_schema = 'RPCS';
 
 rename table apirequest to  temp;rename table temp to  APIREQUEST;
 rename table aprocedure to  temp;rename table temp to  APROCEDURE;
